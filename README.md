@@ -1,7 +1,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://github.com/eabsoma/Tatalmaz/assets/142039353/a639bb32-581b-4252-a786-be26c95fe219" width="300"/>
+  <img src="https://github.com/eabsoma/Tatalmaz/assets/142039353/a639bb32-581b-4252-a786-be26c95fe219" width="200"/>
 </p>
 
 A specialized browser called Tatalmaz has been created to aid students in enhancing their auditory abilities and pronunciation of alphabet letters. An integrated learning program, this browser permits users to upload image-based text and accurately articulate the text with proper diacritics. Furthermore, learners can record their audio pronunciation of an alphabet letter and evaluate it using our model.
@@ -19,7 +19,7 @@ A specialized browser called Tatalmaz has been created to aid students in enhanc
 
   3- The Large language model (LLM) has been customized using the langchain framework to offer Arabic language lessons that specifically address learner inquiries.
        <p align="center">
-  <img src="https://github.com/eabsoma/Tatalmaz/assets/142039353/bacd521d-7fd7-4246-9a81-4d65f0ba523a" width="200"/>
+  <img src="https://github.com/eabsoma/Tatalmaz/assets/142039353/bacd521d-7fd7-4246-9a81-4d65f0ba523a" width="300"/>
 </p>
 
 # Demo
